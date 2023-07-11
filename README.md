@@ -9,7 +9,7 @@
 ### Data Visualization / Data Analytics 
 Used Laptop Price Data Visualization Dashboard App (Python, Streamlit, Plotly Express) 
 [GitHub Repository](https://github.com/aimee0317/laptop_price_data_visualization)
-![](https://github.com/aimee0317/laptop_price_data_visualization/blob/main/dashboard.gif)
+![](https://github.com/aimee0317/laptop_price_data_visualization/blob/main/dashboard1.gif)
 
 Video Game Sales Data Visualization Dashboard App (R, dash, ggplot2, dplyer, tidyr)
 [GitHub Repository](https://github.com/UBC-MDS/video_game_sales_dashboard_R) 
