@@ -20,7 +20,8 @@ Collaborated with fellow students at UBC MDS
 
 ### Unsupervised Learning 
 ### Upcoming 
-
-
-<br> 
+## Documenting My Learning Journey 📖
+I recently started to document my learning journey in data analytics/data science/web development (as a personal hobby). Please check out my profile on [Medium](https://medium.com/@aimee.tang0317).
+### Selected Articles 
+- [How to Run a Python Script Stored in S3 on EC2](https://medium.com/@aimee.tang0317/beginners-guide-to-aws-how-to-run-a-python-script-stored-in-s3-on-ec2-f05730c500e7)
 
