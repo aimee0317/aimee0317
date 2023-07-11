@@ -10,14 +10,13 @@
 - Used Laptop Price Data Visualization Dashboard App (Python, Streamlit, Plotly Express) 
 [GitHub Repository](https://github.com/aimee0317/laptop_price_data_visualization)
 ![](https://github.com/aimee0317/laptop_price_data_visualization/blob/main/dashboard1.gif)
-<br>
+
 - Video Game Sales Data Visualization Dashboard App (R, dash, ggplot2, dplyer, tidyr)
-- [GitHub Repository](https://github.com/UBC-MDS/video_game_sales_dashboard_R) (Collaborated with fellow students at UBC MDS)
+[GitHub Repository](https://github.com/UBC-MDS/video_game_sales_dashboard_R) (Collaborated with fellow students at UBC MDS)
 ![](https://github.com/aimee0317/visualizations/blob/main/demo_r.gif)
-<br>
+
 - Disney Reviews Sentiment Analysis Data Visualization using Tableau Story
 ![](https://github.com/aimee0317/topic_modeling_Disney_reviews/blob/main/EDA/disney-tableau-demo.gif)
-<br>
 ### Supervised Learning 
 
 ### Unsupervised Learning 
