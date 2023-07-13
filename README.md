@@ -5,8 +5,6 @@
 
 <br>Hello, I'm Amelia. I've always considered myself as a data scientist and programmer in training because how rapidly the technology industry evolves. In my previous life, I graduated with Honors from NYU Stern School of Business where I majored in Finance and Statistics. After navigating investment banking, FinTech and EdTech, I decided to dive into the world of data by pursuing my master’s degree in Data Science at University of British Columbia. In the future, I am looking forward to exploring the endless possibilities that lie within the captivating world of data analytics and machine learning as an avid learner and collaborator, alongside like-minded peers and talented industry pioneers. 😊
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimee0317&layout=compact)
-
 ## Selected Projects 📈
 ### Data Visualization / Data Analytics 
 - Used Laptop Price Data Visualization Dashboard App (Python, Streamlit, Plotly Express) 
