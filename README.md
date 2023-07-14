@@ -22,7 +22,7 @@
 - Disney Reviews Sentiment Analysis Data Visualization using Tableau Story
 ![](https://github.com/aimee0317/topic_modeling_Disney_reviews/blob/main/EDA/disney-tableau-demo.gif)
 ### Supervised Learning 
-- [Car price prediction](https://github.com/aimee0317/car_price_prediction): Regression using linear regression and tree-based models (deployed on Azure as a Flask app)
+- [Car price prediction](https://github.com/aimee0317/car_price_prediction): Regression using linear regression and tree-based models (deployed on Azure as a Flask app and containerized the project using Docker)
 
 ### Unsupervised Learning 
 - [Disney Review Sentiment Analysis and Topic Modeling](https://github.com/aimee0317/topic_modeling_Disney_reviews): Sentiment analysis using `TextBlob`, `VADER` and `ChatGPT` Prompt Engineering and topc modeling using `HDBSCAN`, `LDA` and `ChatGPT`. 
