@@ -20,7 +20,7 @@
 ![](https://github.com/aimee0317/visualizations/blob/main/demo_r.gif)
 
 - Hospital Emergency Department Data Tableau Dashboard
-[GitHub Repository](https://github.com/aimee0317/hospital-emergency-department-tableau-dashboard)) (Coming soon)
+[GitHub Repository](https://github.com/aimee0317/hospital-emergency-department-tableau-dashboard) (Coming soon)
 
 ### Supervised Learning 
 - [Car price prediction](https://github.com/aimee0317/car_price_prediction): Regression using linear regression and tree-based models (deployed on Azure as a Flask app and containerized the project using Docker)
