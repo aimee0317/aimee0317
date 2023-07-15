@@ -8,7 +8,7 @@
 ## Selected Projects 📈
 ### Data Visualization / Data Analytics 
 - Extract, transform and load (ETL) data pipeline in AWS using S3, EC2, Glue and Athena
-[GitHub Repository](https://github.com/aimee0317/eBay-ETL-Data-Pipeline)
+[GitHub Repository](https://github.com/aimee0317/ETL-Data-Pipelines-Python-AWS/tree/main))
 
 ![](https://github.com/aimee0317/eBay-ETL-Data-Pipeline/blob/main/ETL_diagram.png)
 - Used Laptop Price Data Visualization Dashboard App (Python, Streamlit, Plotly Express) 
