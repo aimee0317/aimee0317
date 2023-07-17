@@ -19,7 +19,7 @@
 
 ### Data Engineering
 - Extract, transform and load (ETL) data pipeline in AWS using S3, EC2, Glue and Athena
-![GitHub Repository](https://github.com/aimee0317/ETL-Data-Pipelines)
+![GitHub Repository](https://github.com/aimee0317/ETL-Data-Pipelines/blob/main/ETL_diagram.png)
 
 ### Supervised Learning 
 - [Car price prediction](https://github.com/aimee0317/car_price_prediction): Regression using linear regression and tree-based models (deployed on Azure as a Flask app and containerized the project using Docker)
