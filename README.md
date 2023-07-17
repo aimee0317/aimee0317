@@ -7,9 +7,6 @@
 
 ## Selected Projects 📈
 ### Data Visualization / Data Analytics 
-- Extract, transform and load (ETL) data pipeline in AWS using S3, EC2, Glue and Athena
-[GitHub Repository](https://github.com/aimee0317/ETL-Data-Pipelines)
-
 ![](https://github.com/aimee0317/eBay-ETL-Data-Pipeline/blob/main/ETL_diagram.png)
 - Used Laptop Price Data Visualization Dashboard App (Python, Streamlit, Plotly Express) 
 [GitHub Repository](https://github.com/aimee0317/laptop_price_data_visualization)
@@ -21,6 +18,10 @@
 
 - Hospital Emergency Department Data Tableau Dashboard
 [GitHub Repository](https://github.com/aimee0317/hospital-emergency-department-tableau-dashboard) (Coming soon)
+
+### Data Engineering
+- Extract, transform and load (ETL) data pipeline in AWS using S3, EC2, Glue and Athena
+[GitHub Repository](https://github.com/aimee0317/ETL-Data-Pipelines)
 
 ### Supervised Learning 
 - [Car price prediction](https://github.com/aimee0317/car_price_prediction): Regression using linear regression and tree-based models (deployed on Azure as a Flask app and containerized the project using Docker)
