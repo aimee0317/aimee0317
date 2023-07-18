@@ -3,27 +3,25 @@
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aimee0317)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aimee.tang0317@gmail.com)
 
-<br>Hello, I'm Amelia. I've always considered myself as a data scientist and programmer in training because how rapidly the technology industry evolves. In my previous life, I graduated with Honors from NYU Stern School of Business where I majored in Finance and Statistics. After navigating investment banking, FinTech and EdTech, I decided to dive into the world of data by pursuing my master’s degree in Data Science at University of British Columbia. In the future, I am looking forward to exploring the endless possibilities that lie within the captivating world of data analytics and machine learning as an avid learner and collaborator, alongside like-minded peers and talented industry pioneers. 😊
+<br>Hello, I’m Amelia. I am a data scientist, always in training because of how rapidly the technology industry evolves. I hold a Bachelor of Science degree with Honors in Finance and Statistics from NYU Stern School of Business and a Master’s degree in Data Science from the University of British Columbia (UBC). In the future, I am looking forward to exploring the endless possibilities that lie within the captivating world of data analytics and machine learning as an avid learner and collaborator, alongside like-minded peers and talented industry pioneers. 😊
 
 ## Selected Projects 📈
 ### Data Visualization / Data Analytics 
 - Used Laptop Price Data Visualization Dashboard App (Python, Streamlit, Plotly Express) 
-![](https://github.com/aimee0317/laptop_price_data_visualization/blob/main/dashboard1.gif)
+[GitHub Repository](https://github.com/aimee0317/laptop_price_data_visualization)
 
 - Video Game Sales Data Visualization Dashboard App (R, dash, ggplot2, dplyer, tidyr)
 [GitHub Repository](https://github.com/UBC-MDS/video_game_sales_dashboard_R) (Collaborated with fellow students at UBC MDS)
-![](https://github.com/aimee0317/visualizations/blob/main/demo_r.gif)
 
 - Hospital Emergency Department Data Tableau Dashboard
 [GitHub Repository](https://github.com/aimee0317/hospital-emergency-department-tableau-dashboard) (Coming soon)
 
 - E-commerce Website Analytics Dashboard with Google Looker Studio and Google Analytics 4
-[GitHub Repository](https://github.com/aimee0317/google-looker-studio-ecommerce-dashboard/tree/main)
+[GitHub Repository](https://github.com/aimee0317/google-looker-studio-ecommerce-dashboard/tree/main) (Coming soon)
 
 ### Data Engineering
 - Extract, transform and load (ETL) data pipeline in AWS using S3, EC2, Glue and Athena
-
-![GitHub Repository](https://github.com/aimee0317/ETL-Data-Pipelines/blob/main/ETL_diagram.png)
+[GitHub Repository](https://github.com/aimee0317/ETL-Data-Pipelines)
 
 ### Supervised Learning 
 - [Car price prediction](https://github.com/aimee0317/car_price_prediction): Regression using linear regression and tree-based models (deployed on Azure as a Flask app and containerized the project using Docker)
