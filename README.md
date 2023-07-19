@@ -17,7 +17,7 @@
 [GitHub Repository](https://github.com/aimee0317/hospital-emergency-department-tableau-dashboard) (Coming soon)
 
 - E-commerce Website Analytics Dashboard with Google Looker Studio and Google Analytics 4
-[GitHub Repository](https://github.com/aimee0317/google-looker-studio-ecommerce-dashboard/tree/main) (Coming soon)
+[GitHub Repository](https://github.com/aimee0317/google-looker-studio-ecommerce-dashboard/tree/main)
 
 ### Data Engineering
 - Extract, transform and load (ETL) data pipeline in AWS using S3, EC2, Glue and Athena
