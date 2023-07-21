@@ -14,7 +14,7 @@
 [GitHub Repository](https://github.com/UBC-MDS/video_game_sales_dashboard_R) 
 
 - Hospital Emergency Department Data Dashboard (Tableau)
-[GitHub Repository](https://github.com/aimee0317/hospital-emergency-department-tableau-dashboard) (Coming soon)
+[GitHub Repository](https://github.com/aimee0317/hospital-emergency-department-tableau-dashboard)
 
 - E-commerce Website Analytics Dashboard (Google Looker Studio, Google Analytics 4)
 [GitHub Repository](https://github.com/aimee0317/google-looker-studio-ecommerce-dashboard/tree/main)
