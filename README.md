@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aimee0317)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aimee.tang0317@gmail.com)
 
-<br>Hello, I’m Amelia. I am a data scientist, always in training because of how rapidly the technology industry evolves. I hold a Bachelor of Science degree with Honors in Finance and Statistics from NYU Stern School of Business and a Master’s degree in Data Science from the University of British Columbia (UBC). In the future, I am looking forward to exploring the endless possibilities that lie within the captivating world of data analytics and machine learning as an avid learner and collaborator, alongside like-minded peers and talented industry pioneers. 😊
+<br>Hello, I am Amelia and I am passionate about data. I hold a Bachelor of Science degree with Honors in Finance and Statistics from NYU Stern School of Business and a Master’s degree in Data Science from the University of British Columbia (UBC). In the future, I am looking forward to exploring the endless possibilities that lie within the captivating world of data science as an avid learner and collaborator, alongside like-minded peers and talented industry pioneers. 😊
 
 ## Selected Projects 📈
 ### Data Visualization / Data Analytics 
