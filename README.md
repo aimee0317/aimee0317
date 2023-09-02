@@ -7,7 +7,7 @@
 
 ## Selected Projects 📈
 ### Data Visualization / Data Analytics 
-- Model Fitness Gym Churn Visualization and Analysis (PowerBI, PowerQuery, Dax)[GitHub Repository](https://github.com/aimee0317/gym_customer_churn_analysis)
+- Model Fitness Gym Churn Visualization and Analysis (PowerBI, PowerQuery, Dax) [GitHub Repository](https://github.com/aimee0317/gym_customer_churn_analysis)
 - Used Laptop Price Data Visualization Dashboard App (Python, Streamlit, Plotly Express) 
 [GitHub Repository](https://github.com/aimee0317/laptop_price_data_visualization)
 
